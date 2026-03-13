@@ -1,5 +1,5 @@
-streamlit==1.27.0
-pandas==2.1.0
-plotly==5.17.0
-supabase==1.0.1
-reportlab==3.8.0
+streamlit
+pandas
+plotly
+supabase
+reportlab
